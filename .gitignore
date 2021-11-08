@@ -1,4 +1,5 @@
 ~$*.SLDPRT
 ~$*.SLDASM
+~$*.xlsx
 *~
 .DS_Store
