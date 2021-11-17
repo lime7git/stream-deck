@@ -98,7 +98,6 @@ NoConn ~ 3250 4400
 NoConn ~ 3250 4500
 NoConn ~ 3250 4700
 NoConn ~ 3250 4800
-NoConn ~ 4650 1900
 Wire Wire Line
 	6750 2050 6850 2050
 Wire Wire Line
@@ -475,4 +474,91 @@ Wire Wire Line
 	2650 5400 2650 5500
 Wire Wire Line
 	3250 2800 3400 2800
+Text GLabel 6050 2450 0    50   Input ~ 0
+BOOT0
+Wire Wire Line
+	6050 2450 6250 2450
+Text GLabel 7750 4150 2    50   Input ~ 0
+BOOT1
+Wire Wire Line
+	7750 4150 7550 4150
+Text GLabel 3820 1620 0    50   Input ~ 0
+BOOT0
+$Comp
+L Connector_Generic:Conn_02x03_Counter_Clockwise J?
+U 1 1 6197877E
+P 4120 1620
+F 0 "J?" H 4170 1937 50  0000 C CNN
+F 1 "Conn_BOOT" H 4170 1846 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 4120 1620 50  0001 C CNN
+F 3 "~" H 4120 1620 50  0001 C CNN
+	1    4120 1620
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61986215
+P 4520 1830
+F 0 "#PWR?" H 4520 1580 50  0001 C CNN
+F 1 "GND" H 4525 1657 50  0000 C CNN
+F 2 "" H 4520 1830 50  0001 C CNN
+F 3 "" H 4520 1830 50  0001 C CNN
+	1    4520 1830
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4420 1720 4520 1720
+Wire Wire Line
+	4520 1720 4520 1830
+$Comp
+L power:GND #PWR?
+U 1 1 6198ABFD
+P 3820 1830
+F 0 "#PWR?" H 3820 1580 50  0001 C CNN
+F 1 "GND" H 3825 1657 50  0000 C CNN
+F 2 "" H 3820 1830 50  0001 C CNN
+F 3 "" H 3820 1830 50  0001 C CNN
+	1    3820 1830
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3920 1720 3820 1720
+Wire Wire Line
+	3820 1720 3820 1830
+Wire Wire Line
+	4520 1520 4520 1410
+Wire Wire Line
+	4420 1520 4520 1520
+$Comp
+L power:+3.3V #PWR?
+U 1 1 61995457
+P 4520 1410
+F 0 "#PWR?" H 4520 1160 50  0001 C CNN
+F 1 "+3.3V" H 4535 1583 50  0000 C CNN
+F 2 "" H 4520 1410 50  0001 C CNN
+F 3 "" H 4520 1410 50  0001 C CNN
+	1    4520 1410
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3920 1520 3820 1520
+Wire Wire Line
+	3820 1520 3820 1410
+$Comp
+L power:+3.3V #PWR?
+U 1 1 6199E8B3
+P 3820 1410
+F 0 "#PWR?" H 3820 1160 50  0001 C CNN
+F 1 "+3.3V" H 3835 1583 50  0000 C CNN
+F 2 "" H 3820 1410 50  0001 C CNN
+F 3 "" H 3820 1410 50  0001 C CNN
+	1    3820 1410
+	-1   0    0    -1  
+$EndComp
+Text GLabel 4520 1620 2    50   Input ~ 0
+BOOT1
+Wire Wire Line
+	3820 1620 3920 1620
+Wire Wire Line
+	4420 1620 4520 1620
 $EndSCHEMATC
