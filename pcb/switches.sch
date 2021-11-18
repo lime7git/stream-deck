@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 3
+Sheet 2 3
 Title ""
 Date ""
 Rev ""
@@ -1589,41 +1589,6 @@ Connection ~ 8200 5050
 Wire Wire Line
 	8900 5650 8900 5950
 $Comp
-L 74xGxx:74LVC1G332 U?
-U 1 1 61BF4492
-P 9500 3450
-F 0 "U?" H 9500 3764 50  0000 C CNN
-F 1 "74LVC1G332" H 9500 3673 50  0000 C CNN
-F 2 "" H 9500 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 9500 3450 50  0001 C CNN
-	1    9500 3450
-	1    0    0    -1  
-$EndComp
-Text GLabel 9050 3350 0    50   Input ~ 0
-Button_1
-Text GLabel 9050 3450 0    50   Input ~ 0
-Button_5
-Text GLabel 9050 3550 0    50   Input ~ 0
-Button_9
-Wire Wire Line
-	9050 3350 9200 3350
-Wire Wire Line
-	9050 3450 9200 3450
-Wire Wire Line
-	9050 3550 9200 3550
-Text GLabel 10700 3450 2    50   Output ~ 0
-RST
-Wire Notes Line
-	8550 3750 11000 3750
-Wire Notes Line
-	11000 3750 11000 3000
-Wire Notes Line
-	11000 3000 8550 3000
-Wire Notes Line
-	8550 3000 8550 3750
-Text Notes 8550 2950 0    50   ~ 0
-HARDWARE RESET\n
-$Comp
 L power:GND #PWR?
 U 1 1 61C306D8
 P 2250 7200
@@ -1686,19 +1651,4 @@ Wire Wire Line
 Connection ~ 2100 7000
 Wire Wire Line
 	2100 7000 2250 7000
-$Comp
-L Device:Jumper_NO_Small JP?
-U 1 1 61958962
-P 10250 3450
-F 0 "JP?" H 10250 3635 50  0000 C CNN
-F 1 "Jumper_NO_Small" H 10250 3544 50  0000 C CNN
-F 2 "" H 10250 3450 50  0001 C CNN
-F 3 "~" H 10250 3450 50  0001 C CNN
-	1    10250 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10350 3450 10700 3450
-Wire Wire Line
-	9800 3450 10150 3450
 $EndSCHEMATC
