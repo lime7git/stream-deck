@@ -21,7 +21,7 @@ AR Path="/61BCDF44" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCDF44" Ref="R9"  Part="1" 
 F 0 "R9" V 2200 1450 50  0000 C CNN
 F 1 "R" V 2200 1550 50  0000 C CNN
-F 2 "" V 2030 1600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2030 1600 50  0001 C CNN
 F 3 "~" H 2100 1600 50  0001 C CNN
 	1    2100 1600
 	1    0    0    -1  
@@ -62,7 +62,7 @@ AR Path="/61BCDF57" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCDF57" Ref="R14"  Part="1" 
 F 0 "R14" V 1800 1700 50  0000 C CNN
 F 1 "R" V 1800 1800 50  0000 C CNN
-F 2 "" V 1830 1800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 1830 1800 50  0001 C CNN
 F 3 "~" H 1900 1800 50  0001 C CNN
 	1    1900 1800
 	0    1    1    0   
@@ -75,7 +75,7 @@ AR Path="/61BCDF5D" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BCDF5D" Ref="C13"  Part="1" 
 F 0 "C13" H 2215 2046 50  0000 L CNN
 F 1 "C" H 2215 1955 50  0000 L CNN
-F 2 "" H 2138 1850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2138 1850 50  0001 C CNN
 F 3 "~" H 2100 2000 50  0001 C CNN
 	1    2100 2000
 	1    0    0    -1  
@@ -97,7 +97,7 @@ AR Path="/61BCDF68" Ref="SW?"  Part="1"
 AR Path="/61B99CE8/61BCDF68" Ref="SW1"  Part="1" 
 F 0 "SW1" H 2500 2085 50  0000 C CNN
 F 1 "SW_MEC_5G" H 2500 1994 50  0000 C CNN
-F 2 "" H 2500 2000 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2500 2000 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2500 2000 50  0001 C CNN
 	1    2500 1800
 	1    0    0    -1  
@@ -133,7 +133,7 @@ AR Path="/61BCDF79" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCDF79" Ref="R12"  Part="1" 
 F 0 "R12" V 7600 1450 50  0000 C CNN
 F 1 "R" V 7600 1550 50  0000 C CNN
-F 2 "" V 7430 1600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7430 1600 50  0001 C CNN
 F 3 "~" H 7500 1600 50  0001 C CNN
 	1    7500 1600
 	1    0    0    -1  
@@ -174,7 +174,7 @@ AR Path="/61BCDF8C" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCDF8C" Ref="R17"  Part="1" 
 F 0 "R17" V 7200 1700 50  0000 C CNN
 F 1 "R" V 7200 1800 50  0000 C CNN
-F 2 "" V 7230 1800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 7230 1800 50  0001 C CNN
 F 3 "~" H 7300 1800 50  0001 C CNN
 	1    7300 1800
 	0    1    1    0   
@@ -187,7 +187,7 @@ AR Path="/61BCDF92" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BCDF92" Ref="C16"  Part="1" 
 F 0 "C16" H 7615 2046 50  0000 L CNN
 F 1 "C" H 7615 1955 50  0000 L CNN
-F 2 "" H 7538 1850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7538 1850 50  0001 C CNN
 F 3 "~" H 7500 2000 50  0001 C CNN
 	1    7500 2000
 	1    0    0    -1  
@@ -209,7 +209,7 @@ AR Path="/61BCDF9D" Ref="SW?"  Part="1"
 AR Path="/61B99CE8/61BCDF9D" Ref="SW4"  Part="1" 
 F 0 "SW4" H 7900 2085 50  0000 C CNN
 F 1 "SW_MEC_5G" H 7900 1994 50  0000 C CNN
-F 2 "" H 7900 2000 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7900 2000 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7900 2000 50  0001 C CNN
 	1    7900 1800
 	1    0    0    -1  
@@ -245,7 +245,7 @@ AR Path="/61BCDFAE" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCDFAE" Ref="R10"  Part="1" 
 F 0 "R10" V 4050 1450 50  0000 C CNN
 F 1 "R" V 4050 1550 50  0000 C CNN
-F 2 "" V 3880 1600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3880 1600 50  0001 C CNN
 F 3 "~" H 3950 1600 50  0001 C CNN
 	1    3950 1600
 	1    0    0    -1  
@@ -286,7 +286,7 @@ AR Path="/61BCDFC1" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCDFC1" Ref="R15"  Part="1" 
 F 0 "R15" V 3650 1700 50  0000 C CNN
 F 1 "R" V 3650 1800 50  0000 C CNN
-F 2 "" V 3680 1800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3680 1800 50  0001 C CNN
 F 3 "~" H 3750 1800 50  0001 C CNN
 	1    3750 1800
 	0    1    1    0   
@@ -299,7 +299,7 @@ AR Path="/61BCDFC7" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BCDFC7" Ref="C14"  Part="1" 
 F 0 "C14" H 4065 2046 50  0000 L CNN
 F 1 "C" H 4065 1955 50  0000 L CNN
-F 2 "" H 3988 1850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3988 1850 50  0001 C CNN
 F 3 "~" H 3950 2000 50  0001 C CNN
 	1    3950 2000
 	1    0    0    -1  
@@ -321,7 +321,7 @@ AR Path="/61BCDFD2" Ref="SW?"  Part="1"
 AR Path="/61B99CE8/61BCDFD2" Ref="SW2"  Part="1" 
 F 0 "SW2" H 4350 2085 50  0000 C CNN
 F 1 "SW_MEC_5G" H 4350 1994 50  0000 C CNN
-F 2 "" H 4350 2000 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 2000 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4350 2000 50  0001 C CNN
 	1    4350 1800
 	1    0    0    -1  
@@ -357,7 +357,7 @@ AR Path="/61BCDFE3" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCDFE3" Ref="R13"  Part="1" 
 F 0 "R13" V 9450 1450 50  0000 C CNN
 F 1 "R" V 9450 1550 50  0000 C CNN
-F 2 "" V 9280 1600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 9280 1600 50  0001 C CNN
 F 3 "~" H 9350 1600 50  0001 C CNN
 	1    9350 1600
 	1    0    0    -1  
@@ -398,7 +398,7 @@ AR Path="/61BCDFF6" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCDFF6" Ref="R18"  Part="1" 
 F 0 "R18" V 9050 1700 50  0000 C CNN
 F 1 "R" V 9050 1800 50  0000 C CNN
-F 2 "" V 9080 1800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 9080 1800 50  0001 C CNN
 F 3 "~" H 9150 1800 50  0001 C CNN
 	1    9150 1800
 	0    1    1    0   
@@ -411,7 +411,7 @@ AR Path="/61BCDFFC" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BCDFFC" Ref="C17"  Part="1" 
 F 0 "C17" H 9465 2046 50  0000 L CNN
 F 1 "C" H 9465 1955 50  0000 L CNN
-F 2 "" H 9388 1850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 9388 1850 50  0001 C CNN
 F 3 "~" H 9350 2000 50  0001 C CNN
 	1    9350 2000
 	1    0    0    -1  
@@ -433,7 +433,7 @@ AR Path="/61BCE007" Ref="SW?"  Part="1"
 AR Path="/61B99CE8/61BCE007" Ref="SW5"  Part="1" 
 F 0 "SW5" H 9750 2085 50  0000 C CNN
 F 1 "SW_MEC_5G" H 9750 1994 50  0000 C CNN
-F 2 "" H 9750 2000 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9750 2000 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9750 2000 50  0001 C CNN
 	1    9750 1800
 	1    0    0    -1  
@@ -469,7 +469,7 @@ AR Path="/61BCE018" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCE018" Ref="R11"  Part="1" 
 F 0 "R11" V 5850 1450 50  0000 C CNN
 F 1 "R" V 5850 1550 50  0000 C CNN
-F 2 "" V 5680 1600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5680 1600 50  0001 C CNN
 F 3 "~" H 5750 1600 50  0001 C CNN
 	1    5750 1600
 	1    0    0    -1  
@@ -510,7 +510,7 @@ AR Path="/61BCE02B" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCE02B" Ref="R16"  Part="1" 
 F 0 "R16" V 5450 1700 50  0000 C CNN
 F 1 "R" V 5450 1800 50  0000 C CNN
-F 2 "" V 5480 1800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 5480 1800 50  0001 C CNN
 F 3 "~" H 5550 1800 50  0001 C CNN
 	1    5550 1800
 	0    1    1    0   
@@ -523,7 +523,7 @@ AR Path="/61BCE031" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BCE031" Ref="C15"  Part="1" 
 F 0 "C15" H 5865 2046 50  0000 L CNN
 F 1 "C" H 5865 1955 50  0000 L CNN
-F 2 "" H 5788 1850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5788 1850 50  0001 C CNN
 F 3 "~" H 5750 2000 50  0001 C CNN
 	1    5750 2000
 	1    0    0    -1  
@@ -545,7 +545,7 @@ AR Path="/61BCE03C" Ref="SW?"  Part="1"
 AR Path="/61B99CE8/61BCE03C" Ref="SW3"  Part="1" 
 F 0 "SW3" H 6150 2085 50  0000 C CNN
 F 1 "SW_MEC_5G" H 6150 1994 50  0000 C CNN
-F 2 "" H 6150 2000 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6150 2000 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6150 2000 50  0001 C CNN
 	1    6150 1800
 	1    0    0    -1  
@@ -581,7 +581,7 @@ AR Path="/61BCE04D" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCE04D" Ref="R19"  Part="1" 
 F 0 "R19" V 2200 3100 50  0000 C CNN
 F 1 "R" V 2200 3200 50  0000 C CNN
-F 2 "" V 2030 3250 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 2030 3250 50  0001 C CNN
 F 3 "~" H 2100 3250 50  0001 C CNN
 	1    2100 3250
 	1    0    0    -1  
@@ -622,7 +622,7 @@ AR Path="/61BCE060" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCE060" Ref="R23"  Part="1" 
 F 0 "R23" V 1800 3350 50  0000 C CNN
 F 1 "R" V 1800 3450 50  0000 C CNN
-F 2 "" V 1830 3450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 1830 3450 50  0001 C CNN
 F 3 "~" H 1900 3450 50  0001 C CNN
 	1    1900 3450
 	0    1    1    0   
@@ -635,7 +635,7 @@ AR Path="/61BCE066" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BCE066" Ref="C18"  Part="1" 
 F 0 "C18" H 2215 3696 50  0000 L CNN
 F 1 "C" H 2215 3605 50  0000 L CNN
-F 2 "" H 2138 3500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2138 3500 50  0001 C CNN
 F 3 "~" H 2100 3650 50  0001 C CNN
 	1    2100 3650
 	1    0    0    -1  
@@ -657,7 +657,7 @@ AR Path="/61BCE071" Ref="SW?"  Part="1"
 AR Path="/61B99CE8/61BCE071" Ref="SW6"  Part="1" 
 F 0 "SW6" H 2500 3735 50  0000 C CNN
 F 1 "SW_MEC_5G" H 2500 3644 50  0000 C CNN
-F 2 "" H 2500 3650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2500 3650 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2500 3650 50  0001 C CNN
 	1    2500 3450
 	1    0    0    -1  
@@ -693,7 +693,7 @@ AR Path="/61BCE082" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCE082" Ref="R20"  Part="1" 
 F 0 "R20" V 4050 3100 50  0000 C CNN
 F 1 "R" V 4050 3200 50  0000 C CNN
-F 2 "" V 3880 3250 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 3880 3250 50  0001 C CNN
 F 3 "~" H 3950 3250 50  0001 C CNN
 	1    3950 3250
 	1    0    0    -1  
@@ -734,7 +734,7 @@ AR Path="/61BCE095" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCE095" Ref="R24"  Part="1" 
 F 0 "R24" V 3650 3350 50  0000 C CNN
 F 1 "R" V 3650 3450 50  0000 C CNN
-F 2 "" V 3680 3450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3680 3450 50  0001 C CNN
 F 3 "~" H 3750 3450 50  0001 C CNN
 	1    3750 3450
 	0    1    1    0   
@@ -747,7 +747,7 @@ AR Path="/61BCE09B" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BCE09B" Ref="C19"  Part="1" 
 F 0 "C19" H 4065 3696 50  0000 L CNN
 F 1 "C" H 4065 3605 50  0000 L CNN
-F 2 "" H 3988 3500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3988 3500 50  0001 C CNN
 F 3 "~" H 3950 3650 50  0001 C CNN
 	1    3950 3650
 	1    0    0    -1  
@@ -769,7 +769,7 @@ AR Path="/61BCE0A6" Ref="SW?"  Part="1"
 AR Path="/61B99CE8/61BCE0A6" Ref="SW7"  Part="1" 
 F 0 "SW7" H 4350 3735 50  0000 C CNN
 F 1 "SW_MEC_5G" H 4350 3644 50  0000 C CNN
-F 2 "" H 4350 3650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 3650 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4350 3650 50  0001 C CNN
 	1    4350 3450
 	1    0    0    -1  
@@ -805,7 +805,7 @@ AR Path="/61BCE0B7" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCE0B7" Ref="R21"  Part="1" 
 F 0 "R21" V 5850 3100 50  0000 C CNN
 F 1 "R" V 5850 3200 50  0000 C CNN
-F 2 "" V 5680 3250 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5680 3250 50  0001 C CNN
 F 3 "~" H 5750 3250 50  0001 C CNN
 	1    5750 3250
 	1    0    0    -1  
@@ -846,7 +846,7 @@ AR Path="/61BCE0CA" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCE0CA" Ref="R25"  Part="1" 
 F 0 "R25" V 5450 3350 50  0000 C CNN
 F 1 "R" V 5450 3450 50  0000 C CNN
-F 2 "" V 5480 3450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5480 3450 50  0001 C CNN
 F 3 "~" H 5550 3450 50  0001 C CNN
 	1    5550 3450
 	0    1    1    0   
@@ -859,7 +859,7 @@ AR Path="/61BCE0D0" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BCE0D0" Ref="C20"  Part="1" 
 F 0 "C20" H 5865 3696 50  0000 L CNN
 F 1 "C" H 5865 3605 50  0000 L CNN
-F 2 "" H 5788 3500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5788 3500 50  0001 C CNN
 F 3 "~" H 5750 3650 50  0001 C CNN
 	1    5750 3650
 	1    0    0    -1  
@@ -881,7 +881,7 @@ AR Path="/61BCE0DB" Ref="SW?"  Part="1"
 AR Path="/61B99CE8/61BCE0DB" Ref="SW8"  Part="1" 
 F 0 "SW8" H 6150 3735 50  0000 C CNN
 F 1 "SW_MEC_5G" H 6150 3644 50  0000 C CNN
-F 2 "" H 6150 3650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6150 3650 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6150 3650 50  0001 C CNN
 	1    6150 3450
 	1    0    0    -1  
@@ -917,7 +917,7 @@ AR Path="/61BCE0EC" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCE0EC" Ref="R22"  Part="1" 
 F 0 "R22" V 7600 3100 50  0000 C CNN
 F 1 "R" V 7600 3200 50  0000 C CNN
-F 2 "" V 7430 3250 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7430 3250 50  0001 C CNN
 F 3 "~" H 7500 3250 50  0001 C CNN
 	1    7500 3250
 	1    0    0    -1  
@@ -958,7 +958,7 @@ AR Path="/61BCE0FF" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BCE0FF" Ref="R26"  Part="1" 
 F 0 "R26" V 7200 3350 50  0000 C CNN
 F 1 "R" V 7200 3450 50  0000 C CNN
-F 2 "" V 7230 3450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7230 3450 50  0001 C CNN
 F 3 "~" H 7300 3450 50  0001 C CNN
 	1    7300 3450
 	0    1    1    0   
@@ -971,7 +971,7 @@ AR Path="/61BCE105" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BCE105" Ref="C21"  Part="1" 
 F 0 "C21" H 7615 3696 50  0000 L CNN
 F 1 "C" H 7615 3605 50  0000 L CNN
-F 2 "" H 7538 3500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7538 3500 50  0001 C CNN
 F 3 "~" H 7500 3650 50  0001 C CNN
 	1    7500 3650
 	1    0    0    -1  
@@ -993,7 +993,7 @@ AR Path="/61BCE110" Ref="SW?"  Part="1"
 AR Path="/61B99CE8/61BCE110" Ref="SW9"  Part="1" 
 F 0 "SW9" H 7900 3735 50  0000 C CNN
 F 1 "SW_MEC_5G" H 7900 3644 50  0000 C CNN
-F 2 "" H 7900 3650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7900 3650 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7900 3650 50  0001 C CNN
 	1    7900 3450
 	1    0    0    -1  
@@ -1055,7 +1055,7 @@ AR Path="/61BDCAE1" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCAE1" Ref="R33"  Part="1" 
 F 0 "R33" V 3300 5100 50  0000 C CNN
 F 1 "R" V 3300 5200 50  0000 C CNN
-F 2 "" V 3130 5250 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3130 5250 50  0001 C CNN
 F 3 "~" H 3200 5250 50  0001 C CNN
 	1    3200 5250
 	1    0    0    -1  
@@ -1081,7 +1081,7 @@ AR Path="/61BDCAED" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCAED" Ref="R36"  Part="1" 
 F 0 "R36" V 3300 5350 50  0000 C CNN
 F 1 "R" V 3300 5450 50  0000 C CNN
-F 2 "" V 3330 5450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3330 5450 50  0001 C CNN
 F 3 "~" H 3400 5450 50  0001 C CNN
 	1    3400 5450
 	0    -1   -1   0   
@@ -1094,7 +1094,7 @@ AR Path="/61BDCAF3" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BDCAF3" Ref="C22"  Part="1" 
 F 0 "C22" H 3315 5696 50  0000 L CNN
 F 1 "C" H 3315 5605 50  0000 L CNN
-F 2 "" H 3238 5500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3238 5500 50  0001 C CNN
 F 3 "~" H 3200 5650 50  0001 C CNN
 	1    3200 5650
 	1    0    0    -1  
@@ -1154,7 +1154,7 @@ AR Path="/61BDCB10" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCB10" Ref="R28"  Part="1" 
 F 0 "R28" V 2350 5050 50  0000 C CNN
 F 1 "R" V 2350 5150 50  0000 C CNN
-F 2 "" V 2180 5200 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2180 5200 50  0001 C CNN
 F 3 "~" H 2250 5200 50  0001 C CNN
 	1    2250 5200
 	1    0    0    -1  
@@ -1172,7 +1172,7 @@ AR Path="/61BDCB19" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCB19" Ref="R27"  Part="1" 
 F 0 "R27" V 2200 5300 50  0000 C CNN
 F 1 "R" V 2200 5200 50  0000 C CNN
-F 2 "" V 2030 5200 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2030 5200 50  0001 C CNN
 F 3 "~" H 2100 5200 50  0001 C CNN
 	1    2100 5200
 	-1   0    0    1   
@@ -1244,7 +1244,7 @@ AR Path="/61BDCB3C" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCB3C" Ref="R34"  Part="1" 
 F 0 "R34" V 6250 5100 50  0000 C CNN
 F 1 "R" V 6250 5200 50  0000 C CNN
-F 2 "" V 6080 5250 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6080 5250 50  0001 C CNN
 F 3 "~" H 6150 5250 50  0001 C CNN
 	1    6150 5250
 	1    0    0    -1  
@@ -1270,7 +1270,7 @@ AR Path="/61BDCB48" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCB48" Ref="R37"  Part="1" 
 F 0 "R37" V 6250 5350 50  0000 C CNN
 F 1 "R" V 6250 5450 50  0000 C CNN
-F 2 "" V 6280 5450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6280 5450 50  0001 C CNN
 F 3 "~" H 6350 5450 50  0001 C CNN
 	1    6350 5450
 	0    -1   -1   0   
@@ -1283,7 +1283,7 @@ AR Path="/61BDCB4E" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BDCB4E" Ref="C23"  Part="1" 
 F 0 "C23" H 6265 5696 50  0000 L CNN
 F 1 "C" H 6265 5605 50  0000 L CNN
-F 2 "" H 6188 5500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 6188 5500 50  0001 C CNN
 F 3 "~" H 6150 5650 50  0001 C CNN
 	1    6150 5650
 	1    0    0    -1  
@@ -1343,7 +1343,7 @@ AR Path="/61BDCB6B" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCB6B" Ref="R30"  Part="1" 
 F 0 "R30" V 5300 5050 50  0000 C CNN
 F 1 "R" V 5300 5150 50  0000 C CNN
-F 2 "" V 5130 5200 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5130 5200 50  0001 C CNN
 F 3 "~" H 5200 5200 50  0001 C CNN
 	1    5200 5200
 	1    0    0    -1  
@@ -1361,7 +1361,7 @@ AR Path="/61BDCB74" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCB74" Ref="R29"  Part="1" 
 F 0 "R29" V 5150 5300 50  0000 C CNN
 F 1 "R" V 5150 5200 50  0000 C CNN
-F 2 "" V 4980 5200 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4980 5200 50  0001 C CNN
 F 3 "~" H 5050 5200 50  0001 C CNN
 	1    5050 5200
 	-1   0    0    1   
@@ -1433,7 +1433,7 @@ AR Path="/61BDCB97" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCB97" Ref="R35"  Part="1" 
 F 0 "R35" V 9300 5100 50  0000 C CNN
 F 1 "R" V 9300 5200 50  0000 C CNN
-F 2 "" V 9130 5250 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 9130 5250 50  0001 C CNN
 F 3 "~" H 9200 5250 50  0001 C CNN
 	1    9200 5250
 	1    0    0    -1  
@@ -1459,7 +1459,7 @@ AR Path="/61BDCBA3" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCBA3" Ref="R38"  Part="1" 
 F 0 "R38" V 9300 5350 50  0000 C CNN
 F 1 "R" V 9300 5450 50  0000 C CNN
-F 2 "" V 9330 5450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 9330 5450 50  0001 C CNN
 F 3 "~" H 9400 5450 50  0001 C CNN
 	1    9400 5450
 	0    -1   -1   0   
@@ -1472,7 +1472,7 @@ AR Path="/61BDCBA9" Ref="C?"  Part="1"
 AR Path="/61B99CE8/61BDCBA9" Ref="C24"  Part="1" 
 F 0 "C24" H 9315 5696 50  0000 L CNN
 F 1 "C" H 9315 5605 50  0000 L CNN
-F 2 "" H 9238 5500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 9238 5500 50  0001 C CNN
 F 3 "~" H 9200 5650 50  0001 C CNN
 	1    9200 5650
 	1    0    0    -1  
@@ -1532,7 +1532,7 @@ AR Path="/61BDCBC6" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCBC6" Ref="R32"  Part="1" 
 F 0 "R32" V 8350 5050 50  0000 C CNN
 F 1 "R" V 8350 5150 50  0000 C CNN
-F 2 "" V 8180 5200 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8180 5200 50  0001 C CNN
 F 3 "~" H 8250 5200 50  0001 C CNN
 	1    8250 5200
 	1    0    0    -1  
@@ -1550,7 +1550,7 @@ AR Path="/61BDCBCF" Ref="R?"  Part="1"
 AR Path="/61B99CE8/61BDCBCF" Ref="R31"  Part="1" 
 F 0 "R31" V 8200 5300 50  0000 C CNN
 F 1 "R" V 8200 5200 50  0000 C CNN
-F 2 "" V 8030 5200 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8030 5200 50  0001 C CNN
 F 3 "~" H 8100 5200 50  0001 C CNN
 	1    8100 5200
 	-1   0    0    1   
@@ -1588,67 +1588,4 @@ Wire Wire Line
 Connection ~ 8200 5050
 Wire Wire Line
 	8900 5650 8900 5950
-$Comp
-L power:GND #PWR?
-U 1 1 61C306D8
-P 2250 7200
-AR Path="/61C306D8" Ref="#PWR?"  Part="1" 
-AR Path="/61B99CE8/61C306D8" Ref="#PWR074"  Part="1" 
-F 0 "#PWR074" H 2250 6950 50  0001 C CNN
-F 1 "GND" H 2255 7027 50  0000 C CNN
-F 2 "" H 2250 7200 50  0001 C CNN
-F 3 "" H 2250 7200 50  0001 C CNN
-	1    2250 7200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Jack-DC J5
-U 1 1 61C42E1E
-P 1700 7100
-F 0 "J5" H 1757 7425 50  0000 C CNN
-F 1 "Jack-DC" H 1757 7334 50  0000 C CNN
-F 2 "" H 1750 7060 50  0001 C CNN
-F 3 "~" H 1750 7060 50  0001 C CNN
-	1    1700 7100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2000 7200 2250 7200
-Text GLabel 2250 7000 2    50   Output ~ 0
-JACK_button
-Wire Wire Line
-	2000 7000 2100 7000
-$Comp
-L Device:R R?
-U 1 1 61C5B780
-P 2100 6700
-AR Path="/61C5B780" Ref="R?"  Part="1" 
-AR Path="/61B99CE8/61C5B780" Ref="R39"  Part="1" 
-F 0 "R39" V 2200 6550 50  0000 C CNN
-F 1 "R" V 2200 6650 50  0000 C CNN
-F 2 "" V 2030 6700 50  0001 C CNN
-F 3 "~" H 2100 6700 50  0001 C CNN
-	1    2100 6700
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+3.3V #PWR?
-U 1 1 61C5BFF4
-P 2100 6450
-AR Path="/61C5BFF4" Ref="#PWR?"  Part="1" 
-AR Path="/61B99CE8/61C5BFF4" Ref="#PWR073"  Part="1" 
-F 0 "#PWR073" H 2100 6300 50  0001 C CNN
-F 1 "+3.3V" H 2115 6623 50  0000 C CNN
-F 2 "" H 2100 6450 50  0001 C CNN
-F 3 "" H 2100 6450 50  0001 C CNN
-	1    2100 6450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2100 6550 2100 6450
-Wire Wire Line
-	2100 6850 2100 7000
-Connection ~ 2100 7000
-Wire Wire Line
-	2100 7000 2250 7000
 $EndSCHEMATC
