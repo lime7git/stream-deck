@@ -89,19 +89,6 @@ Wire Wire Line
 	2050 1800 2100 1800
 Wire Wire Line
 	1650 1800 1750 1800
-$Comp
-L Switch:SW_MEC_5G SW?
-U 1 1 61BCDF68
-P 2500 1800
-AR Path="/61BCDF68" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BCDF68" Ref="SW1"  Part="1" 
-F 0 "SW1" H 2500 2085 50  0000 C CNN
-F 1 "SW_MEC_5G" H 2500 1994 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2500 2000 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2500 2000 50  0001 C CNN
-	1    2500 1800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	2700 1800 2800 1800
 Wire Wire Line
@@ -201,19 +188,6 @@ Wire Wire Line
 	7450 1800 7500 1800
 Wire Wire Line
 	7050 1800 7150 1800
-$Comp
-L Switch:SW_MEC_5G SW?
-U 1 1 61BCDF9D
-P 7900 1800
-AR Path="/61BCDF9D" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BCDF9D" Ref="SW4"  Part="1" 
-F 0 "SW4" H 7900 2085 50  0000 C CNN
-F 1 "SW_MEC_5G" H 7900 1994 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7900 2000 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7900 2000 50  0001 C CNN
-	1    7900 1800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	8100 1800 8200 1800
 Wire Wire Line
@@ -313,19 +287,6 @@ Wire Wire Line
 	3900 1800 3950 1800
 Wire Wire Line
 	3500 1800 3600 1800
-$Comp
-L Switch:SW_MEC_5G SW?
-U 1 1 61BCDFD2
-P 4350 1800
-AR Path="/61BCDFD2" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BCDFD2" Ref="SW2"  Part="1" 
-F 0 "SW2" H 4350 2085 50  0000 C CNN
-F 1 "SW_MEC_5G" H 4350 1994 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 2000 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4350 2000 50  0001 C CNN
-	1    4350 1800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4550 1800 4650 1800
 Wire Wire Line
@@ -425,19 +386,6 @@ Wire Wire Line
 	9300 1800 9350 1800
 Wire Wire Line
 	8900 1800 9000 1800
-$Comp
-L Switch:SW_MEC_5G SW?
-U 1 1 61BCE007
-P 9750 1800
-AR Path="/61BCE007" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BCE007" Ref="SW5"  Part="1" 
-F 0 "SW5" H 9750 2085 50  0000 C CNN
-F 1 "SW_MEC_5G" H 9750 1994 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9750 2000 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 9750 2000 50  0001 C CNN
-	1    9750 1800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	9950 1800 10050 1800
 Wire Wire Line
@@ -537,19 +485,6 @@ Wire Wire Line
 	5700 1800 5750 1800
 Wire Wire Line
 	5300 1800 5400 1800
-$Comp
-L Switch:SW_MEC_5G SW?
-U 1 1 61BCE03C
-P 6150 1800
-AR Path="/61BCE03C" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BCE03C" Ref="SW3"  Part="1" 
-F 0 "SW3" H 6150 2085 50  0000 C CNN
-F 1 "SW_MEC_5G" H 6150 1994 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6150 2000 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6150 2000 50  0001 C CNN
-	1    6150 1800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	6350 1800 6450 1800
 Wire Wire Line
@@ -649,19 +584,6 @@ Wire Wire Line
 	2050 3450 2100 3450
 Wire Wire Line
 	1650 3450 1750 3450
-$Comp
-L Switch:SW_MEC_5G SW?
-U 1 1 61BCE071
-P 2500 3450
-AR Path="/61BCE071" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BCE071" Ref="SW6"  Part="1" 
-F 0 "SW6" H 2500 3735 50  0000 C CNN
-F 1 "SW_MEC_5G" H 2500 3644 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2500 3650 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 2500 3650 50  0001 C CNN
-	1    2500 3450
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	2700 3450 2800 3450
 Wire Wire Line
@@ -761,19 +683,6 @@ Wire Wire Line
 	3900 3450 3950 3450
 Wire Wire Line
 	3500 3450 3600 3450
-$Comp
-L Switch:SW_MEC_5G SW?
-U 1 1 61BCE0A6
-P 4350 3450
-AR Path="/61BCE0A6" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BCE0A6" Ref="SW7"  Part="1" 
-F 0 "SW7" H 4350 3735 50  0000 C CNN
-F 1 "SW_MEC_5G" H 4350 3644 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 3650 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 4350 3650 50  0001 C CNN
-	1    4350 3450
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4550 3450 4650 3450
 Wire Wire Line
@@ -873,19 +782,6 @@ Wire Wire Line
 	5700 3450 5750 3450
 Wire Wire Line
 	5300 3450 5400 3450
-$Comp
-L Switch:SW_MEC_5G SW?
-U 1 1 61BCE0DB
-P 6150 3450
-AR Path="/61BCE0DB" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BCE0DB" Ref="SW8"  Part="1" 
-F 0 "SW8" H 6150 3735 50  0000 C CNN
-F 1 "SW_MEC_5G" H 6150 3644 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6150 3650 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 6150 3650 50  0001 C CNN
-	1    6150 3450
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	6350 3450 6450 3450
 Wire Wire Line
@@ -985,19 +881,6 @@ Wire Wire Line
 	7450 3450 7500 3450
 Wire Wire Line
 	7050 3450 7150 3450
-$Comp
-L Switch:SW_MEC_5G SW?
-U 1 1 61BCE110
-P 7900 3450
-AR Path="/61BCE110" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BCE110" Ref="SW9"  Part="1" 
-F 0 "SW9" H 7900 3735 50  0000 C CNN
-F 1 "SW_MEC_5G" H 7900 3644 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7900 3650 50  0001 C CNN
-F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7900 3650 50  0001 C CNN
-	1    7900 3450
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	8100 3450 8200 3450
 Wire Wire Line
@@ -1588,4 +1471,103 @@ Wire Wire Line
 Connection ~ 8200 5050
 Wire Wire Line
 	8900 5650 8900 5950
+$Comp
+L Switch:SW_Push SW6
+U 1 1 61F907D9
+P 2500 3450
+F 0 "SW6" H 2500 3735 50  0000 C CNN
+F 1 "SW_Push" H 2500 3644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2500 3650 50  0001 C CNN
+F 3 "~" H 2500 3650 50  0001 C CNN
+	1    2500 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1
+U 1 1 61FBF846
+P 2500 1800
+F 0 "SW1" H 2500 2085 50  0000 C CNN
+F 1 "SW_Push" H 2500 1994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2500 2000 50  0001 C CNN
+F 3 "~" H 2500 2000 50  0001 C CNN
+	1    2500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 61FC48AC
+P 4350 1800
+F 0 "SW2" H 4350 2085 50  0000 C CNN
+F 1 "SW_Push" H 4350 1994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 2000 50  0001 C CNN
+F 3 "~" H 4350 2000 50  0001 C CNN
+	1    4350 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 61FC96E0
+P 7900 1800
+F 0 "SW4" H 7900 2085 50  0000 C CNN
+F 1 "SW_Push" H 7900 1994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7900 2000 50  0001 C CNN
+F 3 "~" H 7900 2000 50  0001 C CNN
+	1    7900 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 61FCE3A3
+P 4350 3450
+F 0 "SW7" H 4350 3735 50  0000 C CNN
+F 1 "SW_Push" H 4350 3644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 3650 50  0001 C CNN
+F 3 "~" H 4350 3650 50  0001 C CNN
+	1    4350 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 61FD3221
+P 7900 3450
+F 0 "SW9" H 7900 3735 50  0000 C CNN
+F 1 "SW_Push" H 7900 3644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7900 3650 50  0001 C CNN
+F 3 "~" H 7900 3650 50  0001 C CNN
+	1    7900 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 61FD80C0
+P 6150 1800
+F 0 "SW3" H 6150 2085 50  0000 C CNN
+F 1 "SW_Push" H 6150 1994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6150 2000 50  0001 C CNN
+F 3 "~" H 6150 2000 50  0001 C CNN
+	1    6150 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 61FDCDEB
+P 9750 1800
+F 0 "SW5" H 9750 2085 50  0000 C CNN
+F 1 "SW_Push" H 9750 1994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9750 2000 50  0001 C CNN
+F 3 "~" H 9750 2000 50  0001 C CNN
+	1    9750 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 61FE1CC4
+P 6150 3450
+F 0 "SW8" H 6150 3735 50  0000 C CNN
+F 1 "SW_Push" H 6150 3644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6150 3650 50  0001 C CNN
+F 3 "~" H 6150 3650 50  0001 C CNN
+	1    6150 3450
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

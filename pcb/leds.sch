@@ -14,187 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L LED:WS2812B D?
-U 1 1 61B5B747
-P 5140 1820
-AR Path="/61B5B747" Ref="D?"  Part="1" 
-AR Path="/61B54BD1/61B5B747" Ref="D3"  Part="1" 
-F 0 "D3" H 5484 1866 50  0000 L CNN
-F 1 "WS2812B" H 5484 1775 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 5190 1520 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5240 1445 50  0001 L TNN
-	1    5140 1820
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B D?
-U 1 1 61B5B74D
-P 6140 1820
-AR Path="/61B5B74D" Ref="D?"  Part="1" 
-AR Path="/61B54BD1/61B5B74D" Ref="D4"  Part="1" 
-F 0 "D4" H 6484 1866 50  0000 L CNN
-F 1 "WS2812B" H 6484 1775 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6190 1520 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6240 1445 50  0001 L TNN
-	1    6140 1820
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B D?
-U 1 1 61B5B753
-P 7090 1820
-AR Path="/61B5B753" Ref="D?"  Part="1" 
-AR Path="/61B54BD1/61B5B753" Ref="D5"  Part="1" 
-F 0 "D5" H 7434 1866 50  0000 L CNN
-F 1 "WS2812B" H 7434 1775 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 7140 1520 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 7190 1445 50  0001 L TNN
-	1    7090 1820
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B D?
-U 1 1 61B5B759
-P 8040 1820
-AR Path="/61B5B759" Ref="D?"  Part="1" 
-AR Path="/61B54BD1/61B5B759" Ref="D6"  Part="1" 
-F 0 "D6" H 8384 1866 50  0000 L CNN
-F 1 "WS2812B" H 8384 1775 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 8090 1520 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 8140 1445 50  0001 L TNN
-	1    8040 1820
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B D?
-U 1 1 61B5B75F
-P 8990 1820
-AR Path="/61B5B75F" Ref="D?"  Part="1" 
-AR Path="/61B54BD1/61B5B75F" Ref="D7"  Part="1" 
-F 0 "D7" H 9334 1866 50  0000 L CNN
-F 1 "WS2812B" H 9334 1775 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 9040 1520 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 9090 1445 50  0001 L TNN
-	1    8990 1820
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B D?
-U 1 1 61B5B765
-P 9940 1820
-AR Path="/61B5B765" Ref="D?"  Part="1" 
-AR Path="/61B54BD1/61B5B765" Ref="D8"  Part="1" 
-F 0 "D8" H 10284 1866 50  0000 L CNN
-F 1 "WS2812B" H 10284 1775 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 9990 1520 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 10040 1445 50  0001 L TNN
-	1    9940 1820
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B D?
-U 1 1 61B5B76B
-P 3090 1820
-AR Path="/61B5B76B" Ref="D?"  Part="1" 
-AR Path="/61B54BD1/61B5B76B" Ref="D1"  Part="1" 
-F 0 "D1" H 3434 1866 50  0000 L CNN
-F 1 "WS2812B" H 3434 1775 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 3140 1520 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3190 1445 50  0001 L TNN
-	1    3090 1820
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B D?
-U 1 1 61B5B771
-P 4090 1820
-AR Path="/61B5B771" Ref="D?"  Part="1" 
-AR Path="/61B54BD1/61B5B771" Ref="D2"  Part="1" 
-F 0 "D2" H 4434 1866 50  0000 L CNN
-F 1 "WS2812B" H 4434 1775 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4140 1520 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4190 1445 50  0001 L TNN
-	1    4090 1820
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4090 1520 3090 1520
-Wire Wire Line
-	3090 2120 4090 2120
-Wire Wire Line
-	4090 1520 5140 1520
-Connection ~ 4090 1520
-Wire Wire Line
-	5140 1520 6140 1520
-Connection ~ 5140 1520
-Connection ~ 6140 1520
-Wire Wire Line
-	7090 1520 8040 1520
-Connection ~ 7090 1520
-Wire Wire Line
-	8040 1520 8990 1520
-Connection ~ 8040 1520
-Wire Wire Line
-	8990 1520 9940 1520
-Connection ~ 8990 1520
-Wire Wire Line
-	9940 2120 8990 2120
-Wire Wire Line
-	8990 2120 8040 2120
-Connection ~ 8990 2120
-Wire Wire Line
-	8040 2120 7090 2120
-Connection ~ 8040 2120
-Connection ~ 7090 2120
-Wire Wire Line
-	6140 2120 5140 2120
-Connection ~ 6140 2120
-Wire Wire Line
-	5140 2120 4090 2120
-Connection ~ 5140 2120
-Connection ~ 4090 2120
-$Comp
-L power:+5V #PWR?
-U 1 1 61B5B791
-P 6590 1270
-AR Path="/61B5B791" Ref="#PWR?"  Part="1" 
-AR Path="/61B54BD1/61B5B791" Ref="#PWR075"  Part="1" 
-F 0 "#PWR075" H 6590 1120 50  0001 C CNN
-F 1 "+5V" H 6605 1443 50  0000 C CNN
-F 2 "" H 6590 1270 50  0001 C CNN
-F 3 "" H 6590 1270 50  0001 C CNN
-	1    6590 1270
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR?
-U 1 1 61B5B79A
-P 6590 2270
-AR Path="/61B5B79A" Ref="#PWR?"  Part="1" 
-AR Path="/61B54BD1/61B5B79A" Ref="#PWR078"  Part="1" 
-F 0 "#PWR078" H 6590 2020 50  0001 C CNN
-F 1 "GND" H 6595 2097 50  0000 C CNN
-F 2 "" H 6590 2270 50  0001 C CNN
-F 3 "" H 6590 2270 50  0001 C CNN
-	1    6590 2270
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3390 1820 3790 1820
-Wire Wire Line
-	4390 1820 4840 1820
-Wire Wire Line
-	5440 1820 5840 1820
-Wire Wire Line
-	6440 1820 6790 1820
-Wire Wire Line
-	7390 1820 7740 1820
-Wire Wire Line
-	8340 1820 8690 1820
-Wire Wire Line
-	9290 1820 9640 1820
-NoConn ~ 10240 1820
-$Comp
 L Connector:Conn_01x03_Female J?
 U 1 1 61B5B7AB
 P 1420 1820
@@ -207,30 +26,6 @@ F 3 "~" H 1420 1820 50  0001 C CNN
 	1    1420 1820
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	2640 1720 2740 1720
-Wire Wire Line
-	2740 1720 2740 1520
-Wire Wire Line
-	2740 1520 3090 1520
-Connection ~ 3090 1520
-Wire Wire Line
-	2640 1820 2790 1820
-Wire Wire Line
-	2640 1920 2740 1920
-Wire Wire Line
-	2740 1920 2740 2120
-Connection ~ 3090 2120
-Wire Wire Line
-	2740 2120 3090 2120
-Wire Notes Line
-	2690 2520 10740 2520
-Wire Notes Line
-	10740 2520 10740 1070
-Wire Notes Line
-	10740 1070 2690 1070
-Wire Notes Line
-	2690 1070 2690 2520
 $Comp
 L LED:WS2812B D?
 U 1 1 61B66E2E
@@ -286,14 +81,14 @@ $EndComp
 $Comp
 L LED:WS2812B D?
 U 1 1 61B66E58
-P 5050 4320
+P 5040 4330
 AR Path="/61B66E58" Ref="D?"  Part="1" 
 AR Path="/61B54BD1/61B66E58" Ref="D9"  Part="1" 
-F 0 "D9" H 5394 4366 50  0000 L CNN
-F 1 "WS2812B" H 5394 4275 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 5100 4020 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5150 3945 50  0001 L TNN
-	1    5050 4320
+F 0 "D9" H 5384 4376 50  0000 L CNN
+F 1 "WS2812B" H 5384 4285 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 5090 4030 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5140 3955 50  0001 L TNN
+	1    5040 4330
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -346,8 +141,6 @@ Wire Wire Line
 Wire Wire Line
 	3590 4330 3740 4330
 NoConn ~ 9290 4330
-Text Notes 2690 1020 0    50   ~ 0
-external ring WS2812b PCB 
 $Comp
 L LED:WS2812B D?
 U 1 1 61B66E52
@@ -361,9 +154,6 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4140 3955 50  0001 
 	1    4040 4330
 	1    0    0    -1  
 $EndComp
-NoConn ~ 2640 1720
-NoConn ~ 2640 1820
-NoConn ~ 2640 1920
 $Comp
 L power:+5V #PWR076
 U 1 1 61B8D29A
@@ -398,12 +188,6 @@ Wire Wire Line
 	1670 1920 1670 1970
 Wire Wire Line
 	1620 1820 1670 1820
-Wire Wire Line
-	6140 1520 7090 1520
-NoConn ~ 6590 1270
-Wire Wire Line
-	6140 2120 7090 2120
-NoConn ~ 6590 2270
 Text GLabel 1670 1820 2    50   Input ~ 0
 EXTERNAL_LEDS
 Text GLabel 3590 4330 0    50   Input ~ 0
@@ -494,7 +278,7 @@ Connection ~ 5320 3530
 Wire Wire Line
 	5320 3530 6090 3530
 Wire Wire Line
-	4040 4630 6090 4630
+	4040 4630 5040 4630
 $Comp
 L Device:C C27
 U 1 1 61A44BF8
@@ -610,4 +394,7 @@ Wire Wire Line
 Connection ~ 7330 3530
 Wire Wire Line
 	7330 3530 8040 3530
+Connection ~ 5040 4630
+Wire Wire Line
+	5040 4630 6090 4630
 $EndSCHEMATC
