@@ -1064,8 +1064,8 @@ L Device:Rotary_Encoder_Switch SW?
 U 1 1 61BDCB30
 P 5550 5550
 AR Path="/61BDCB30" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BDCB30" Ref="SW11"  Part="1" 
-F 0 "SW11" H 5550 5900 50  0000 C CNN
+AR Path="/61B99CE8/61BDCB30" Ref="ENC2"  Part="1" 
+F 0 "ENC2" H 5550 5900 50  0000 C CNN
 F 1 "EN_02" H 5600 5800 50  0000 C CNN
 F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles" H 5400 5710 50  0001 C CNN
 F 3 "~" H 5550 5810 50  0001 C CNN
@@ -1253,8 +1253,8 @@ L Device:Rotary_Encoder_Switch SW?
 U 1 1 61BDCB8B
 P 8600 5550
 AR Path="/61BDCB8B" Ref="SW?"  Part="1" 
-AR Path="/61B99CE8/61BDCB8B" Ref="SW12"  Part="1" 
-F 0 "SW12" H 8600 5900 50  0000 C CNN
+AR Path="/61B99CE8/61BDCB8B" Ref="ENC3"  Part="1" 
+F 0 "ENC3" H 8600 5900 50  0000 C CNN
 F 1 "EN_03" H 8650 5800 50  0000 C CNN
 F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles" H 8450 5710 50  0001 C CNN
 F 3 "~" H 8600 5810 50  0001 C CNN
