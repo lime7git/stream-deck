@@ -1427,9 +1427,14 @@
     (pad S1 thru_hole circle (at 14.5 5) (size 2 2) (drill 1) (layers *.Cu *.Mask)
       (net 19 "Net-(C24-Pad1)"))
     (model ${KISYS3DMOD}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles.wrl
-      (at (xyz 0 0 0))
+      (offset (xyz 2.5 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
+    )
+    (model ${KIPRJMOD}/rotary-encoder-3d-model/EC11-THT-20K-green.step
+      (offset (xyz 7.5 -2.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1489,6 +1494,11 @@
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/rotary-encoder-3d-model/EC11-THT-20K-green.step
+      (offset (xyz 7.5 -2.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -3070,6 +3080,11 @@
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/usb-c-smd-3d-model/USB Type C Port (SMD Type).STEP"
+      (offset (xyz 0 2.25 1.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 0))
     )
   )
 
