@@ -747,7 +747,7 @@ U 1 1 61ADEEF8
 P 4820 6020
 F 0 "J3" H 4792 5902 50  0000 R CNN
 F 1 "Conn_01x04_Male" H 4792 5993 50  0000 R CNN
-F 2 "Connector_Wire:SolderWire-0.25sqmm_1x04_P4.2mm_D0.65mm_OD1.7mm" H 4820 6020 50  0001 C CNN
+F 2 "Connector_Wire:SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm_Relief" H 4820 6020 50  0001 C CNN
 F 3 "~" H 4820 6020 50  0001 C CNN
 	1    4820 6020
 	1    0    0    -1  
