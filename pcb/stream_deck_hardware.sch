@@ -1065,7 +1065,7 @@ U 1 1 61E76CC5
 P 3350 1540
 F 0 "JP4" V 3304 1608 50  0000 L CNN
 F 1 "SolderJumper_3_Open" V 3395 1608 50  0000 L CNN
-F 2 "Jumper:SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels" H 3350 1540 50  0001 C CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 3350 1540 50  0001 C CNN
 F 3 "~" H 3350 1540 50  0001 C CNN
 	1    3350 1540
 	0    1    1    0   
@@ -1076,7 +1076,7 @@ U 1 1 61EA431B
 P 4490 1520
 F 0 "JP5" V 4444 1588 50  0000 L CNN
 F 1 "SolderJumper_3_Open" V 4535 1588 50  0000 L CNN
-F 2 "Jumper:SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels" H 4490 1520 50  0001 C CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 4490 1520 50  0001 C CNN
 F 3 "~" H 4490 1520 50  0001 C CNN
 	1    4490 1520
 	0    -1   -1   0   

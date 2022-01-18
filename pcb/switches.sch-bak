@@ -1569,7 +1569,7 @@ AR Path="/61ED4421" Ref="J?"  Part="1"
 AR Path="/61B99CE8/61ED4421" Ref="J6"  Part="1" 
 F 0 "J6" H 2910 5540 50  0000 C CNN
 F 1 "ENC A" H 2590 5540 50  0000 C CNN
-F 2 "" H 2450 5540 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2450 5540 50  0001 C CNN
 F 3 "~" H 2450 5540 50  0001 C CNN
 	1    2450 5540
 	-1   0    0    1   
@@ -1582,7 +1582,7 @@ AR Path="/61ED4427" Ref="J?"  Part="1"
 AR Path="/61B99CE8/61ED4427" Ref="J7"  Part="1" 
 F 0 "J7" H 2910 5640 50  0000 C CNN
 F 1 "ENC B" H 2590 5640 50  0000 C CNN
-F 2 "" H 2450 5640 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2450 5640 50  0001 C CNN
 F 3 "~" H 2450 5640 50  0001 C CNN
 	1    2450 5640
 	-1   0    0    1   
@@ -1595,7 +1595,7 @@ AR Path="/61ED442D" Ref="J?"  Part="1"
 AR Path="/61B99CE8/61ED442D" Ref="J8"  Part="1" 
 F 0 "J8" H 2910 5740 50  0000 C CNN
 F 1 "BUTTON" H 2610 5740 50  0000 C CNN
-F 2 "" H 2450 5740 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2450 5740 50  0001 C CNN
 F 3 "~" H 2450 5740 50  0001 C CNN
 	1    2450 5740
 	-1   0    0    1   
@@ -1608,7 +1608,7 @@ AR Path="/61ED4433" Ref="J?"  Part="1"
 AR Path="/61B99CE8/61ED4433" Ref="J9"  Part="1" 
 F 0 "J9" H 2910 5840 50  0000 C CNN
 F 1 "GND" H 2550 5840 50  0000 C CNN
-F 2 "" H 2450 5840 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2450 5840 50  0001 C CNN
 F 3 "~" H 2450 5840 50  0001 C CNN
 	1    2450 5840
 	-1   0    0    1   
@@ -1621,7 +1621,7 @@ AR Path="/61EDA8FA" Ref="J?"  Part="1"
 AR Path="/61B99CE8/61EDA8FA" Ref="J10"  Part="1" 
 F 0 "J10" H 2910 5940 50  0000 C CNN
 F 1 "GND" H 2550 5940 50  0000 C CNN
-F 2 "" H 2450 5940 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2450 5940 50  0001 C CNN
 F 3 "~" H 2450 5940 50  0001 C CNN
 	1    2450 5940
 	-1   0    0    1   
