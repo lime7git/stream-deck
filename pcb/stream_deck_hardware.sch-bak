@@ -688,10 +688,6 @@ Text GLabel 7550 4750 2    50   Input ~ 0
 EXTERNAL_LEDS
 Text GLabel 7550 4850 2    50   Input ~ 0
 AMBILIGHT_LEDS
-Text GLabel 5020 6020 2    50   Input ~ 0
-USB_DM
-Text GLabel 5020 6120 2    50   Input ~ 0
-USB_DP
 Text GLabel 7550 3650 2    50   Input ~ 0
 SWD_CLK
 Text GLabel 7550 3550 2    50   Input ~ 0
@@ -742,17 +738,6 @@ Wire Wire Line
 Wire Wire Line
 	5110 7320 5110 7420
 $Comp
-L Connector:Conn_01x04_Male J3
-U 1 1 61ADEEF8
-P 4820 6020
-F 0 "J3" H 4792 5902 50  0000 R CNN
-F 1 "Conn_01x04_Male" H 4792 5993 50  0000 R CNN
-F 2 "Connector_Wire:SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm_Relief" H 4820 6020 50  0001 C CNN
-F 3 "~" H 4820 6020 50  0001 C CNN
-	1    4820 6020
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+5V #PWR014
 U 1 1 61AE1ABA
 P 2730 2940
@@ -767,36 +752,6 @@ Wire Wire Line
 	2410 3040 2730 3040
 Wire Wire Line
 	2730 3040 2730 2940
-$Comp
-L power:VBUS #PWR023
-U 1 1 61AF1C39
-P 5120 5820
-F 0 "#PWR023" H 5120 5670 50  0001 C CNN
-F 1 "VBUS" H 5135 5993 50  0000 C CNN
-F 2 "" H 5120 5820 50  0001 C CNN
-F 3 "" H 5120 5820 50  0001 C CNN
-	1    5120 5820
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5020 5920 5120 5920
-Wire Wire Line
-	5120 5920 5120 5820
-$Comp
-L power:GND #PWR024
-U 1 1 61AF8851
-P 5120 6320
-F 0 "#PWR024" H 5120 6070 50  0001 C CNN
-F 1 "GND" H 5125 6147 50  0000 C CNN
-F 2 "" H 5120 6320 50  0001 C CNN
-F 3 "" H 5120 6320 50  0001 C CNN
-	1    5120 6320
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5020 6220 5120 6220
-Wire Wire Line
-	5120 6220 5120 6320
 Wire Wire Line
 	2030 3790 2080 3790
 Wire Wire Line
