@@ -14,19 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:Conn_01x03_Female J?
-U 1 1 61B5B7AB
-P 1420 1820
-AR Path="/61B5B7AB" Ref="J?"  Part="1" 
-AR Path="/61B54BD1/61B5B7AB" Ref="J6"  Part="1" 
-F 0 "J6" H 1620 1920 50  0000 C CNN
-F 1 "Conn_01x03_Female" H 1670 2020 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 1420 1820 50  0001 C CNN
-F 3 "~" H 1420 1820 50  0001 C CNN
-	1    1420 1820
-	-1   0    0    1   
-$EndComp
-$Comp
 L LED:WS2812B D?
 U 1 1 61B66E2E
 P 6090 4330
@@ -154,42 +141,6 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4140 3955 50  0001 
 	1    4040 4330
 	1    0    0    -1  
 $EndComp
-$Comp
-L power:+5V #PWR076
-U 1 1 61B8D29A
-P 1670 1670
-F 0 "#PWR076" H 1670 1520 50  0001 C CNN
-F 1 "+5V" H 1685 1843 50  0000 C CNN
-F 2 "" H 1670 1670 50  0001 C CNN
-F 3 "" H 1670 1670 50  0001 C CNN
-	1    1670 1670
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR?
-U 1 1 61B8DECA
-P 1670 1970
-AR Path="/61B8DECA" Ref="#PWR?"  Part="1" 
-AR Path="/61B54BD1/61B8DECA" Ref="#PWR077"  Part="1" 
-F 0 "#PWR077" H 1670 1720 50  0001 C CNN
-F 1 "GND" H 1675 1797 50  0000 C CNN
-F 2 "" H 1670 1970 50  0001 C CNN
-F 3 "" H 1670 1970 50  0001 C CNN
-	1    1670 1970
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1620 1720 1670 1720
-Wire Wire Line
-	1670 1720 1670 1670
-Wire Wire Line
-	1620 1920 1670 1920
-Wire Wire Line
-	1670 1920 1670 1970
-Wire Wire Line
-	1620 1820 1670 1820
-Text GLabel 1670 1820 2    50   Input ~ 0
-EXTERNAL_LEDS
 Text GLabel 3590 4330 0    50   Input ~ 0
 AMBILIGHT_LEDS
 Wire Wire Line
@@ -397,4 +348,46 @@ Wire Wire Line
 Connection ~ 5040 4630
 Wire Wire Line
 	5040 4630 6090 4630
+$Comp
+L Connector:Conn_01x01_Female J?
+U 1 1 61EFE4C5
+P 4670 2340
+AR Path="/61EFE4C5" Ref="J?"  Part="1" 
+AR Path="/61B99CE8/61EFE4C5" Ref="J?"  Part="1" 
+AR Path="/61B54BD1/61EFE4C5" Ref="J11"  Part="1" 
+F 0 "J11" H 5130 2340 50  0000 C CNN
+F 1 "+5V" H 4800 2340 50  0000 C CNN
+F 2 "" H 4670 2340 50  0001 C CNN
+F 3 "~" H 4670 2340 50  0001 C CNN
+	1    4670 2340
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J?
+U 1 1 61EFE4CB
+P 4670 2440
+AR Path="/61EFE4CB" Ref="J?"  Part="1" 
+AR Path="/61B99CE8/61EFE4CB" Ref="J?"  Part="1" 
+AR Path="/61B54BD1/61EFE4CB" Ref="J12"  Part="1" 
+F 0 "J12" H 5130 2440 50  0000 C CNN
+F 1 "DATA" H 4800 2440 50  0000 C CNN
+F 2 "" H 4670 2440 50  0001 C CNN
+F 3 "~" H 4670 2440 50  0001 C CNN
+	1    4670 2440
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J?
+U 1 1 61EFE4D1
+P 4670 2540
+AR Path="/61EFE4D1" Ref="J?"  Part="1" 
+AR Path="/61B99CE8/61EFE4D1" Ref="J?"  Part="1" 
+AR Path="/61B54BD1/61EFE4D1" Ref="J13"  Part="1" 
+F 0 "J13" H 5130 2540 50  0000 C CNN
+F 1 "GND" H 4790 2540 50  0000 C CNN
+F 2 "" H 4670 2540 50  0001 C CNN
+F 3 "~" H 4670 2540 50  0001 C CNN
+	1    4670 2540
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC

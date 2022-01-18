@@ -932,7 +932,6 @@ F 3 "~" H 3200 5650 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3200 5500 3200 5450
-Connection ~ 3200 5450
 Wire Wire Line
 	3200 5450 3200 5400
 Wire Wire Line
@@ -1499,17 +1498,6 @@ F 3 "~" H 6150 3650 50  0001 C CNN
 	1    6150 3450
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:Conn_01x05_Male J5
-U 1 1 61E13F1C
-P 2450 5740
-F 0 "J5" H 2090 5840 50  0000 C CNN
-F 1 "Conn_01x05_Male" H 2080 5740 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal" H 2450 5740 50  0001 C CNN
-F 3 "~" H 2450 5740 50  0001 C CNN
-	1    2450 5740
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	2650 5840 2780 5840
 Wire Wire Line
@@ -1571,5 +1559,71 @@ F 2 "Capacitor_SMD:C_0603_1608Metric" H 5788 1850 50  0001 C CNN
 F 3 "~" H 5750 2000 50  0001 C CNN
 	1    5750 2000
 	1    0    0    -1  
+$EndComp
+Connection ~ 3200 5450
+$Comp
+L Connector:Conn_01x01_Female J?
+U 1 1 61ED4421
+P 2450 5540
+AR Path="/61ED4421" Ref="J?"  Part="1" 
+AR Path="/61B99CE8/61ED4421" Ref="J6"  Part="1" 
+F 0 "J6" H 2910 5540 50  0000 C CNN
+F 1 "ENC A" H 2590 5540 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2450 5540 50  0001 C CNN
+F 3 "~" H 2450 5540 50  0001 C CNN
+	1    2450 5540
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J?
+U 1 1 61ED4427
+P 2450 5640
+AR Path="/61ED4427" Ref="J?"  Part="1" 
+AR Path="/61B99CE8/61ED4427" Ref="J7"  Part="1" 
+F 0 "J7" H 2910 5640 50  0000 C CNN
+F 1 "ENC B" H 2590 5640 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2450 5640 50  0001 C CNN
+F 3 "~" H 2450 5640 50  0001 C CNN
+	1    2450 5640
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J?
+U 1 1 61ED442D
+P 2450 5740
+AR Path="/61ED442D" Ref="J?"  Part="1" 
+AR Path="/61B99CE8/61ED442D" Ref="J8"  Part="1" 
+F 0 "J8" H 2910 5740 50  0000 C CNN
+F 1 "BUTTON" H 2610 5740 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2450 5740 50  0001 C CNN
+F 3 "~" H 2450 5740 50  0001 C CNN
+	1    2450 5740
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J?
+U 1 1 61ED4433
+P 2450 5840
+AR Path="/61ED4433" Ref="J?"  Part="1" 
+AR Path="/61B99CE8/61ED4433" Ref="J9"  Part="1" 
+F 0 "J9" H 2910 5840 50  0000 C CNN
+F 1 "GND" H 2550 5840 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2450 5840 50  0001 C CNN
+F 3 "~" H 2450 5840 50  0001 C CNN
+	1    2450 5840
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J?
+U 1 1 61EDA8FA
+P 2450 5940
+AR Path="/61EDA8FA" Ref="J?"  Part="1" 
+AR Path="/61B99CE8/61EDA8FA" Ref="J10"  Part="1" 
+F 0 "J10" H 2910 5940 50  0000 C CNN
+F 1 "GND" H 2550 5940 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2450 5940 50  0001 C CNN
+F 3 "~" H 2450 5940 50  0001 C CNN
+	1    2450 5940
+	-1   0    0    1   
 $EndComp
 $EndSCHEMATC
