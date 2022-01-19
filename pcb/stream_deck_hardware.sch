@@ -468,9 +468,9 @@ Wire Wire Line
 Wire Wire Line
 	2030 3840 1930 3840
 Text GLabel 2080 3590 2    50   Input ~ 0
-USB_DM
+USB_D-
 Text GLabel 2080 3790 2    50   Input ~ 0
-USB_DP
+USB_D+
 Wire Wire Line
 	1930 3040 2030 3040
 Wire Wire Line
@@ -530,9 +530,7 @@ F 3 "~" H 2180 3240 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Text GLabel 7550 3450 2    50   Input ~ 0
-USB_DM
-Text GLabel 7550 3350 2    50   Input ~ 0
-USB_DP
+USB_D-
 Wire Wire Line
 	6120 3300 6120 3350
 Wire Wire Line
@@ -1135,4 +1133,6 @@ F 3 "~" H 4500 7000 50  0001 C CNN
 	1    4500 7000
 	-1   0    0    1   
 $EndComp
+Text GLabel 7550 3350 2    50   Input ~ 0
+USB_D+
 $EndSCHEMATC
