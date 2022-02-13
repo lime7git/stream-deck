@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="rysunek.svg"
+   inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path854" />
+    </marker>
+    <rect
+       x="13.348628"
+       y="269.13721"
+       width="171.00675"
+       height="262.2825"
+       id="rect1419" />
+    <marker
+       style="overflow:visible"
+       id="marker1143"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1141" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1127"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1125" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path851" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path854-8" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.466755"
+     inkscape:cx="381.11592"
+     inkscape:cy="815.54455"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.25,249.6 h 99.57534 v 9.57535 H 50.25 Z"
+       id="path1163"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.376823,200.25 h 49.321697 v 49.3217 H 95.376823 Z"
+       id="path1163-1"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 17.602283,259.9 H 168.36966"
+       id="path1180"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.114568,259.9 3.048542,5.28023"
+       id="path1182"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.114568,259.9 3.048542,5.28023"
+       id="path1255"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.114568,259.9 3.048542,5.28023"
+       id="path1259"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.114568,259.9 3.048542,5.28023"
+       id="path1261"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40.114568,259.9 3.048542,5.28023"
+       id="path1263"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 45.114568,259.9 3.048542,5.28023"
+       id="path1271"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.114568,259.9 3.048542,5.28023"
+       id="path1273"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.114568,259.9 3.048542,5.28023"
+       id="path1275"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 60.114568,259.9 3.048542,5.28023"
+       id="path1277"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.114568,259.9 3.048542,5.28023"
+       id="path1279"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.114568,259.9 3.048542,5.28023"
+       id="path1281"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.114568,259.9 3.048542,5.28023"
+       id="path1283"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.114568,259.9 3.048542,5.28023"
+       id="path1285"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.114568,259.9 3.048542,5.28023"
+       id="path1338"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.114568,259.9 3.048542,5.28023"
+       id="path1340"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.114568,259.9 3.048542,5.28023"
+       id="path1342"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.114568,259.9 3.048542,5.28023"
+       id="path1344"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.11457,259.9 3.04854,5.28023"
+       id="path1346"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 105.11457,259.9 3.04854,5.28023"
+       id="path1348"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 110.11457,259.9 3.04854,5.28023"
+       id="path1350"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.11457,259.9 3.04854,5.28023"
+       id="path1352"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.11457,259.9 3.04854,5.28023"
+       id="path1354"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.11457,259.9 3.04854,5.28023"
+       id="path1356"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.11457,259.9 3.04854,5.28023"
+       id="path1358"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.11457,259.9 3.04854,5.28023"
+       id="path1360"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.11457,259.9 3.04854,5.28023"
+       id="path1362"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 145.11457,259.9 3.04854,5.28023"
+       id="path1364"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 150.11457,259.9 3.04854,5.28023"
+       id="path1366"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.11457,259.9 3.04854,5.28023"
+       id="path1368"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.11457,259.9 3.04854,5.28023"
+       id="path1370"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.11457,259.9 3.04854,5.28023"
+       id="path1372"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.11457,259.9 3.04854,5.28023"
+       id="path1374"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.11457,259.9 3.04854,5.28023"
+       id="path1376"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 145.11457,259.9 3.04854,5.28023"
+       id="path1378"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 150.11457,259.9 3.04854,5.28023"
+       id="path1380"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 155.11457,259.9 3.04854,5.28023"
+       id="path1382"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160.11457,259.9 3.04854,5.28023"
+       id="path1384"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#969696;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 165.11457,259.9 3.04854,5.28023"
+       id="path1386"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ff0000;fill-opacity:0.4;stroke:#ff0000;stroke-width:0.510075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.4"
+       d="m 95.803965,210.25504 h 48.390455 v 29.48993 H 95.967998 Z"
+       id="path1390"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.297483px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 50.766006,226.02352 V 13.661343"
+       id="path1392"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 54.689419,12.908526 46.38179,17.704937"
+       id="path1394"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 54.946237,222.54432 -8.307629,4.79641"
+       id="path1394-5"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.20116px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.155029"
+       x="-129.57159"
+       y="48.66048"
+       id="text1413"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1411"
+         x="-129.57159"
+         y="48.66048"
+         style="stroke-width:0.155029">3000 mm</tspan><tspan
+         sodipodi:role="line"
+         x="-129.57159"
+         y="56.41193"
+         style="stroke-width:0.155029"
+         id="tspan1415" /></text>
+    <text
+       xml:space="preserve"
+       id="text1417"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect1419);" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.515202;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 162.10043,210.2576 h 34.33417 v 29.4848 h -34.33417 z"
+       id="path1163-0"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.72605,254.70625 24.26203,24.26203 h 9.83108"
+       id="path1468"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 139.98021,235.22447 15.0623,15.0623 h 7.12529"
+       id="path1472"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 166.31669,232.87944 16.59559,16.5956 h 9.19973"
+       id="path1476"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="155.06039"
+       y="249.56573"
+       id="text1480"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1478"
+         x="155.06039"
+         y="249.56573"
+         style="stroke-width:0.264583">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="183.86545"
+       y="249.03366"
+       id="text1484"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1482"
+         x="183.86545"
+         y="249.03366"
+         style="stroke-width:0.264583">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="140.56316"
+       y="277.42728"
+       id="text1488"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1486"
+         x="140.56316"
+         y="277.42728"
+         style="stroke-width:0.264583">3</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 187.42195,225.17321 h -3.69793 -5.14102 -4.41948"
+       id="path1494"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
+       d="m 119.7347,198.74129 v -3.69793 -5.14102 -4.41948"
+       id="path1494-7"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Emil\Desktop\zaliczenie efektory\obraz.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
