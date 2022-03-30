@@ -351,43 +351,77 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x01_Female J?
 U 1 1 61EFE4C5
-P 4670 2340
+P 4650 2320
 AR Path="/61EFE4C5" Ref="J?"  Part="1" 
 AR Path="/61B99CE8/61EFE4C5" Ref="J?"  Part="1" 
 AR Path="/61B54BD1/61EFE4C5" Ref="J11"  Part="1" 
-F 0 "J11" H 5130 2340 50  0000 C CNN
-F 1 "+5V" H 4800 2340 50  0000 C CNN
-F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 4670 2340 50  0001 C CNN
-F 3 "~" H 4670 2340 50  0001 C CNN
-	1    4670 2340
+F 0 "J11" H 5110 2320 50  0000 C CNN
+F 1 "+5V" H 4780 2320 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 4650 2320 50  0001 C CNN
+F 3 "~" H 4650 2320 50  0001 C CNN
+	1    4650 2320
 	-1   0    0    1   
 $EndComp
 $Comp
 L Connector:Conn_01x01_Female J?
 U 1 1 61EFE4CB
-P 4670 2440
+P 4650 2420
 AR Path="/61EFE4CB" Ref="J?"  Part="1" 
 AR Path="/61B99CE8/61EFE4CB" Ref="J?"  Part="1" 
 AR Path="/61B54BD1/61EFE4CB" Ref="J12"  Part="1" 
-F 0 "J12" H 5130 2440 50  0000 C CNN
-F 1 "DATA" H 4800 2440 50  0000 C CNN
-F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 4670 2440 50  0001 C CNN
-F 3 "~" H 4670 2440 50  0001 C CNN
-	1    4670 2440
+F 0 "J12" H 5110 2420 50  0000 C CNN
+F 1 "DATA" H 4780 2420 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 4650 2420 50  0001 C CNN
+F 3 "~" H 4650 2420 50  0001 C CNN
+	1    4650 2420
 	-1   0    0    1   
 $EndComp
 $Comp
 L Connector:Conn_01x01_Female J?
 U 1 1 61EFE4D1
-P 4670 2540
+P 4650 2520
 AR Path="/61EFE4D1" Ref="J?"  Part="1" 
 AR Path="/61B99CE8/61EFE4D1" Ref="J?"  Part="1" 
 AR Path="/61B54BD1/61EFE4D1" Ref="J13"  Part="1" 
-F 0 "J13" H 5130 2540 50  0000 C CNN
-F 1 "GND" H 4790 2540 50  0000 C CNN
-F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 4670 2540 50  0001 C CNN
-F 3 "~" H 4670 2540 50  0001 C CNN
-	1    4670 2540
+F 0 "J13" H 5110 2520 50  0000 C CNN
+F 1 "GND" H 4770 2520 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 4650 2520 50  0001 C CNN
+F 3 "~" H 4650 2520 50  0001 C CNN
+	1    4650 2520
 	-1   0    0    1   
 $EndComp
+Text GLabel 4920 2420 2    50   Input ~ 0
+EXTERNAL_LEDS
+Wire Wire Line
+	4850 2420 4920 2420
+$Comp
+L power:+5V #PWR?
+U 1 1 6250EA9C
+P 4940 2320
+AR Path="/6250EA9C" Ref="#PWR?"  Part="1" 
+AR Path="/61B54BD1/6250EA9C" Ref="#PWR?"  Part="1" 
+F 0 "#PWR?" H 4940 2170 50  0001 C CNN
+F 1 "+5V" H 4955 2493 50  0000 C CNN
+F 2 "" H 4940 2320 50  0001 C CNN
+F 3 "" H 4940 2320 50  0001 C CNN
+	1    4940 2320
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6250F11C
+P 4940 2520
+AR Path="/6250F11C" Ref="#PWR?"  Part="1" 
+AR Path="/61B54BD1/6250F11C" Ref="#PWR?"  Part="1" 
+F 0 "#PWR?" H 4940 2270 50  0001 C CNN
+F 1 "GND" H 4945 2347 50  0000 C CNN
+F 2 "" H 4940 2520 50  0001 C CNN
+F 3 "" H 4940 2520 50  0001 C CNN
+	1    4940 2520
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4850 2320 4940 2320
+Wire Wire Line
+	4850 2520 4940 2520
 $EndSCHEMATC
